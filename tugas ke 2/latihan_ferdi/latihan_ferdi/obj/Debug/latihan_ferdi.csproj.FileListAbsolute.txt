@@ -1,0 +1,7 @@
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\latihan_ferdi\latihan_ferdi\bin\Debug\latihan_ferdi.exe
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\latihan_ferdi\latihan_ferdi\bin\Debug\latihan_ferdi.pdb
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\latihan_ferdi\latihan_ferdi\obj\Debug\latihan_ferdi.csprojResolveAssemblyReference.cache
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\latihan_ferdi\latihan_ferdi\obj\Debug\latihan_ferdi.MainForm.resources
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\latihan_ferdi\latihan_ferdi\obj\Debug\latihan_ferdi.csproj.GenerateResource.Cache
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\latihan_ferdi\latihan_ferdi\obj\Debug\latihan_ferdi.exe
+C:\Users\FERDI NAINGGOLAN\OneDrive\Documents\SharpDevelop Projects\latihan_ferdi\latihan_ferdi\obj\Debug\latihan_ferdi.pdb
